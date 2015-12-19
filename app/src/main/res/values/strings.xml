@@ -1,0 +1,21 @@
+<resources>
+	<string name="app_name">앱이름</string>
+	<string name="title_activity_login">LoginActivity</string>
+	<string name="action_logout">로그아웃</string>
+	<string name="floating_hint">Floating Label Hint</string>
+
+	<string name="snackbar_text">SnackBar Sample</string>
+	<string name="snackbar_action">undo</string>
+	<string name="title_activity_app_bar">학생회공지</string>
+	<string name="thu_username">아이디</string>
+	<string name="thu_password">비밀번호</string>
+
+	<string name="title_section1">Section 1</string>
+	<string name="title_section2">Section 2</string>
+	<string name="title_section3">Section 3</string>
+
+	<string name="hello_world">Hello world!</string>
+
+	<string name="action_settings">Settings</string>
+
+</resources>
